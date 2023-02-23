@@ -1,0 +1,22 @@
+# sayopensesame--COOKIE-CLICKER-DEV-MENU-
+Forces sayopensesame on your Cookie clicker game.
+{
+	"Name": "Force Open Sesame",
+	"ID": "forceopensesame",
+	"Author": "klattmose & EntranceJew",
+	"Description": "saysopensesame with less (but technically more?) effort",
+	"ModVersion": 1,
+	"GameVersion": 2.042,
+	"Date": "3/09/2021",
+	"Dependencies": [],
+	"Disabled": 1,
+	"AllowSteamAchievs": 1
+}
+-----MENU-----
+Copy this and put "javascript" before Game.registerMod to SUMMON the menu.
+
+Game.registerMod("Guarantee Open Sesame",{
+	init:function(){
+		Game.OpenSesame();
+	}
+});
