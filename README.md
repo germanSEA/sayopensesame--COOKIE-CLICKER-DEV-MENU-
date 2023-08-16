@@ -1,2 +1,2 @@
-Forces sayopensesame on your Computer. 
+Forces saysopensesame on your Computer. 
 Your welcome. :)
